@@ -54,10 +54,7 @@
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/injipa/injipa/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/injipa/injipa/output/github-snake.svg" />
-</picture>
+<img src="https://ghchart.rshah.org/40c463/injipa" alt="injipa's contribution graph" width="100%" />
 
 ### 📫 Contact
 
