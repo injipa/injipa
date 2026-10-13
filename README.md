@@ -54,7 +54,7 @@
 
 <br/>
 
-<img src="https://ghchart.rshah.org/40c463/injipa" alt="injipa's contribution graph" width="100%" />
+<<img src="https://ghchart.rshah.org/F4A6C1/injipa" alt="injipa's contribution graph" width="100%" />
 
 ### 📫 Contact
 
