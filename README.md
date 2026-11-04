@@ -45,19 +45,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=injipa&show_icons=true&hide_border=true&theme=default&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=injipa&layout=compact&hide_border=true"/>
-</div>
-
-<br/>
-
-<<img src="https://ghchart.rshah.org/F4A6C1/injipa" alt="injipa's contribution graph" width="100%" />
-
-### 📫 Contact
-
 <p>
   <a href="mailto:your-email@ewhain.net"><img src="https://img.shields.io/badge/Email-00462A?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://your-blog-link"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
